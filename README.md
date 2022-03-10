@@ -1,2 +1,2 @@
 # amazona
-clone of amazona
+clone of amazon website
